@@ -1,0 +1,12 @@
+{
+  "email_cred": {"name": "Password Reset", "subject": "Reset Your Password", "body": "Click to reset: {url}"},
+  "email_link": {"name": "Urgent Update", "subject": "Urgent Account Update", "body": "Click here: {url}"},
+  "sms": {"name": "Account Update", "body": "Urgent: Update your account: {url}"},
+  "attachment": {"name": "Invoice.pdf", "content": "Dummy PDF"},
+  "login_page": {"name": "Google Login", "body": "<html><form method='POST'><input name='user'/><input type='password' name='pass'/><input type='submit'/></form></html>"},
+  "social_media": {"name": "Verification", "body": "Verify your account: {url}"},
+  "vishing": {"name": "Account Verification", "body": "Please call back to verify your account."},
+  "qr_code": {"name": "Reward Claim", "body": "Scan to claim your reward: {url}"},
+  "usb_drop": {"name": "shortcut.lnk", "content": "Dummy Shortcut"},
+  "wifi": {"name": "Free_WiFi", "body": "Connect to Free WiFi"}
+}
